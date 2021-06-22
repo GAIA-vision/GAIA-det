@@ -19,13 +19,9 @@ img_norm_cfg = dict(
 train_pipeline = [
     dict(type='LoadImageFromFile'),
     dict(type='LoadAnnotations', with_bbox=True),
-    dict(
-        type='Resize',
-        img_scale=[(480, 1333), (512, 1333), (544, 1333), (576, 1333),
-                   (608, 1333), (640, 1333), (672, 1333), (704, 1333),
-                   (736, 1333), (768, 1333), (800, 1333)],
-        multiscale_mode='value',
-        override=True,
+    dict(type='Resize',
+        multiscale_mode='range',
+        img_scale=[(1333, 640), (1333, 800)],
         keep_ratio=True),
     dict(type='RandomFlip', flip_ratio=0.5),
     dict(type='Normalize', **img_norm_cfg),
@@ -67,6 +63,20 @@ data = dict(
         ],
     ),
     val=dict(
+        type='UniConcatDataset',
+        label_pool_file='hubs/labels/uni.0.0.3.csv',
+        dataset_names=['coco'],
+        test_mode=True,
+        datasets=[
+            dict(
+                type=dataset_types['coco'],
+                ann_file=data_roots['coco'] + '/annotations/instances_val2017.json',
+                img_prefix=data_roots['coco'] + '/images/val2017',
+                pipeline=test_pipeline),
+        ],
+    ),
+    test=dict(
+        samples_per_gpu=8,
         type='UniConcatDataset',
         label_pool_file='hubs/labels/uni.0.0.3.csv',
         dataset_names=['coco'],
