@@ -165,6 +165,7 @@ def main():
                     all_flops_fd.write(line)
         all_flops_fd.close()
         shutil.rmtree(tmpdir)
+    print('Done.')
 
 
 if __name__ == '__main__':
