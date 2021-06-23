@@ -59,7 +59,7 @@ Prepare Objects365 datset
         │─{image_id}.jpg
         └─...
         
-- Convert metafile from coco-style to custom-style (optional):      
+- Convert meta-file of ``Objects365`` from coco-style to custom-style (required):      
 
 .. code-block:: bash
 
@@ -92,7 +92,7 @@ Prepare OpenImages datset
         │─{image_id}.jpg
         └─...
         
-- Convert metafile from coco-style to custom-style (required):
+- Convert meta-file of ``OpenImages`` from csv to custom-style (required):
 
 .. code-block:: bash
 
