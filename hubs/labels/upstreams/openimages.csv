@@ -1,0 +1,501 @@
+label,name,uni
+0,Infant bed,283
+1,Rose,456
+2,Flag,212
+3,Flashlight,213
+4,Sea turtle,477
+5,Camera,88
+6,Animal,641
+7,Glove,237
+8,Crocodile,145
+9,Cattle,103
+10,House,278
+11,Guacamole,251
+12,Penguin,390
+13,Vehicle registration plate,312
+14,Training bench,596
+15,Ladybug,301
+16,Human nose,361
+17,Watermelon,621
+18,Flute,217
+19,Butterfly,81
+20,Washing machine,618
+21,Raccoon,436
+22,Segway,481
+23,Taco,557
+24,Jellyfish,287
+25,Cake,84
+26,Pen,388
+27,Cannon,92
+28,Bread,70
+29,Tree,652
+30,Shellfish,671
+31,Bed,37
+32,Hamster,257
+33,Hat,266
+34,Toaster,578
+35,Sombrero,515
+36,Tiara,571
+37,Bowl,65
+38,Dragonfly,176
+39,Moths and butterflies,654
+40,Antelope,9
+41,Vegetable,612
+42,Torch,584
+43,Building,664
+44,Power plugs and sockets,427
+45,Blender,55
+46,Billiard table,52
+47,Cutting board,156
+48,Bronze sculpture,73
+49,Turtle,666
+50,Broccoli,72
+51,Tiger,574
+52,Mirror,341
+53,Bear,35
+54,Zucchini,639
+55,Dress,178
+56,Volleyball,615
+57,Guitar,252
+58,Reptile,650
+59,Golf cart,242
+60,Tart,561
+61,Fedora,203
+62,Carnivore,663
+63,Car,95
+64,Lighthouse,317
+65,Coffeemaker,124
+66,Food processor,219
+67,Truck,602
+68,Bookcase,60
+69,Surfboard,544
+70,Footwear,674
+71,Bench,43
+72,Necklace,358
+73,Flower,215
+74,Radish,439
+75,Marine mammal,656
+76,Frying pan,229
+77,Tap,559
+78,Peach,386
+79,Knife,299
+80,Handbag,259
+81,Laptop,305
+82,Tent,570
+83,Ambulance,6
+84,Christmas tree,115
+85,Eagle,185
+86,Limousine,319
+87,Kitchen & dining room table,295
+88,Polar bear,414
+89,Tower,587
+90,Football,7
+91,Willow,626
+92,Human head,267
+93,Stop sign,531
+94,Banana,19
+95,Mixer,343
+96,Binoculars,53
+97,Dessert,162
+98,Bee,38
+99,Chair,108
+100,Wood-burning stove,634
+101,Flowerpot,216
+102,Beaker,34
+103,Oyster,373
+104,Woodpecker,635
+105,Harp,264
+106,Bathtub,33
+107,Wall clock,617
+108,Sports uniform,522
+109,Rhinoceros,445
+110,Beehive,39
+111,Cupboard,153
+112,Chicken,113
+113,Man,328
+114,Blue jay,56
+115,Cucumber,150
+116,Balloon,18
+117,Kite,297
+118,Fireplace,209
+119,Lantern,304
+120,Missile,342
+121,Book,59
+122,Spoon,520
+123,Grapefruit,247
+124,Squirrel,524
+125,Orange,367
+126,Coat,118
+127,Punching bag,433
+128,Zebra,638
+129,Billboard,50
+130,Bicycle,44
+131,Door handle,175
+132,Mechanical fan,192
+133,Ring binder,452
+134,Table,655
+135,Parrot,383
+136,Sock,513
+137,Vase,611
+138,Weapon,672
+139,Shotgun,491
+140,Glasses,199
+141,Seahorse,478
+142,Belt,42
+143,Watercraft,659
+144,Window,627
+145,Giraffe,234
+146,Lion,320
+147,Tire,576
+148,Vehicle,644
+149,Canoe,93
+150,Tie,573
+151,Shelf,486
+152,Picture frame,399
+153,Printer,430
+154,Human leg,308
+155,Boat,58
+156,Slow cooker,504
+157,Croissant,146
+158,Candle,90
+159,Pancake,377
+160,Pillow,403
+161,Coin,125
+162,Stretcher,534
+163,Sandal,464
+164,Woman,633
+165,Stairs,525
+166,Harpsichord,265
+167,Stool,530
+168,Bus,79
+169,Suitcase,540
+170,Human mouth,350
+171,Juice,290
+172,Skull,500
+173,Door,174
+174,Violin,614
+175,Chopsticks,114
+176,Digital clock,164
+177,Sunflower,542
+178,Leopard,310
+179,Bell pepper,41
+180,Harbor seal,263
+181,Snake,506
+182,Sewing machine,483
+183,Goose,245
+184,Helicopter,269
+185,Seat belt,480
+186,Coffee cup,122
+187,Microwave oven,339
+188,Hot dog,277
+189,Countertop,139
+190,Serving tray,482
+191,Dog bed,169
+192,Beer,40
+193,Sunglasses,543
+194,Golf ball,241
+195,Waffle,616
+196,Palm tree,376
+197,Trumpet,604
+198,Ruler,460
+199,Helmet,270
+200,Ladder,300
+201,Office building,364
+202,Tablet computer,556
+203,Toilet paper,580
+204,Pomegranate,416
+205,Skirt,651
+206,Gas stove,233
+207,Cookie,133
+208,Cart,98
+209,Raven,440
+210,Egg,189
+211,Burrito,78
+212,Goat,238
+213,Kitchen knife,296
+214,Skateboard,497
+215,Salt and pepper shakers,463
+216,Lynx,326
+217,Boot,61
+218,Platter,410
+219,Ski,498
+220,Swimwear,551
+221,Swimming pool,550
+222,Drinking straw,179
+223,Wrench,636
+224,Drum,180
+225,Ant,8
+226,Human ear,186
+227,Headphones,268
+228,Fountain,223
+229,Bird,54
+230,Jeans,286
+231,Television,567
+232,Crab,142
+233,Microphone,338
+234,Home appliance,647
+235,Snowplow,511
+236,Beetle,646
+237,Artichoke,12
+238,Jet ski,288
+239,Stationary bicycle,528
+240,Human hair,253
+241,Brown bear,75
+242,Starfish,527
+243,Fork,222
+244,Lobster,323
+245,Corded phone,134
+246,Drink,648
+247,Saucer,466
+248,Carrot,97
+249,Insect,665
+250,Clock,117
+251,Castle,99
+252,Tennis racket,569
+253,Ceiling fan,104
+254,Asparagus,231
+255,Jaguar,285
+256,Musical instrument,670
+257,Train,595
+258,Cat,100
+259,Rifle,450
+260,Dumbbell,182
+261,Mobile phone,344
+262,Taxi,562
+263,Shower,493
+264,Pitcher,405
+265,Lemon,309
+266,Invertebrate,640
+267,Turkey,606
+268,High heels,271
+269,Bust,80
+270,Elephant,193
+271,Scarf,471
+272,Barrel,25
+273,Trombone,600
+274,Pumpkin,432
+275,Box,66
+276,Tomato,581
+277,Frog,228
+278,Bidet,48
+279,Human face,201
+280,Houseplant,424
+281,Van,610
+282,Shark,484
+283,Ice cream,281
+284,Swim cap,549
+285,Falcon,202
+286,Ostrich,369
+287,Handgun,261
+288,Whiteboard,625
+289,Lizard,322
+290,Pasta,385
+291,Snowmobile,510
+292,Light bulb,314
+293,Window blind,628
+294,Muffin,351
+295,Pretzel,429
+296,Computer monitor,129
+297,Horn,226
+298,Furniture,660
+299,Sandwich,465
+300,Fox,224
+301,Convenience store,132
+302,Fish,210
+303,Fruit,662
+304,Earrings,188
+305,Curtain,155
+306,Grape,246
+307,Sofa bed,514
+308,Horse,274
+309,Luggage and bags,325
+310,Desk,160
+311,Crutch,149
+312,Bicycle helmet,45
+313,Tick,572
+314,Airplane,3
+315,Canary,89
+316,Spatula,517
+317,Watch,620
+318,Lily,318
+319,Kitchen appliance,642
+320,Filing cabinet,205
+321,Aircraft,669
+322,Cake stand,85
+323,Candy,91
+324,Sink,496
+325,Mouse,349
+326,Wine,629
+327,Wheelchair,624
+328,Goldfish,240
+329,Refrigerator,443
+330,French fries,225
+331,Drawer,177
+332,Treadmill,597
+333,Picnic basket,398
+334,Dice,163
+335,Cabbage,82
+336,Football helmet,221
+337,Pig,401
+338,Person,392
+339,Shorts,490
+340,Gondola,244
+341,Honeycomb,273
+342,Doughnut,173
+343,Chest of drawers,112
+344,Land vehicle,303
+345,Bat,31
+346,Monkey,345
+347,Dagger,158
+348,Tableware,658
+349,Human foot,220
+350,Mug,352
+351,Alarm clock,4
+352,Pressure cooker,428
+353,Human hand,258
+354,Tortoise,585
+355,Baseball glove,28
+356,Sword,553
+357,Pear,387
+358,Miniskirt,340
+359,Traffic sign,668
+360,Girl,235
+361,Roller skates,455
+362,Dinosaur,166
+363,Porch,418
+364,Human beard,36
+365,Submarine sandwich,538
+366,Screwdriver,475
+367,Strawberry,532
+368,Wine glass,630
+369,Seafood,667
+370,Racket,653
+371,Wheel,623
+372,Sea lion,476
+373,Toy,588
+374,Tea,563
+375,Tennis ball,568
+376,Waste container,619
+377,Mule,353
+378,Cricket ball,144
+379,Pineapple,404
+380,Coconut,120
+381,Doll,170
+382,Coffee table,123
+383,Snowman,509
+384,Lavender,306
+385,Shrimp,494
+386,Maple,331
+387,Cowboy hat,141
+388,Goggles,239
+389,Rugby ball,459
+390,Caterpillar,102
+391,Poster,420
+392,Rocket,453
+393,Organ,368
+394,Saxophone,468
+395,Traffic light,590
+396,Cocktail,119
+397,Plastic bag,408
+398,Squash,657
+399,Mushroom,354
+400,Hamburger,255
+401,Light switch,315
+402,Parachute,381
+403,Teddy bear,565
+404,Winter melon,631
+405,Deer,159
+406,Musical keyboard,355
+407,Plumbing fixture,643
+408,Scoreboard,474
+409,Baseball bat,27
+410,Envelope,194
+411,Adhesive tape,1
+412,Briefcase,71
+413,Paddle,374
+414,Bow and arrow,63
+415,Telephone,566
+416,Sheep,485
+417,Jacket,284
+418,Boy,67
+419,Pizza,406
+420,Otter,370
+421,Office supplies,673
+422,Couch,138
+423,Cello,105
+424,Bull,77
+425,Camel,87
+426,Ball,17
+427,Duck,181
+428,Whale,622
+429,Shirt,488
+430,Tank,558
+431,Motorcycle,347
+432,Accordion,0
+433,Owl,372
+434,Porcupine,419
+435,Sun hat,541
+436,Nail,356
+437,Scissors,472
+438,Swan,548
+439,Lamp,302
+440,Crown,148
+441,Piano,396
+442,Sculpture,649
+443,Cheetah,110
+444,Oboe,363
+445,Tin can,575
+446,Mango,329
+447,Tripod,599
+448,Oven,371
+449,Computer mouse,130
+450,Barge,24
+451,Coffee,121
+452,Snowboard,508
+453,Common fig,204
+454,Salad,462
+455,Marine invertebrates,661
+456,Umbrella,607
+457,Kangaroo,292
+458,Human arm,11
+459,Measuring cup,334
+460,Snail,505
+461,Loveseat,138
+462,Suit,539
+463,Teapot,564
+464,Bottle,62
+465,Alpaca,5
+466,Kettle,293
+467,Trousers,645
+468,Popcorn,417
+469,Centipede,106
+470,Spider,519
+471,Sparrow,516
+472,Plate,409
+473,Bagel,16
+474,Personal care,393
+475,Apple,10
+476,Brassiere,69
+477,Bathroom cabinet,32
+478,Studio couch,537
+479,Computer keyboard,128
+480,Table tennis racket,555
+481,Sushi,546
+482,Cabinetry,83
+483,Street light,533
+484,Towel,586
+485,Nightstand,359
+486,Rabbit,435
+487,Dolphin,171
+488,Dog,168
+489,Jug,289
+490,Wok,632
+491,Fire hydrant,207
+492,Human eye,198
+493,Skyscraper,501
+494,Backpack,15
+495,Potato,422
+496,Paper towel,380
+497,Lifejacket,394
+498,Bicycle wheel,46
+499,Toilet,579

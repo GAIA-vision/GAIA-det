@@ -1,0 +1,366 @@
+label,name,uni
+0,person,392
+1,sneakers,507
+2,chair,108
+3,hat,266
+4,lamp,302
+5,bottle,62
+6,cabinet/shelf,83
+7,cup,152
+8,car,95
+9,glasses,199
+10,picture/frame,399
+11,desk,160
+12,handbag,259
+13,street lights,533
+14,book,59
+15,plate,409
+16,helmet,270
+17,leather shoes,307
+18,pillow,403
+19,glove,237
+20,potted plant,424
+21,bracelet,68
+22,flower,215
+23,tv,567
+24,storage box,66
+25,vase,611
+26,bench,43
+27,wine glass,630
+28,boots,61
+29,bowl,65
+30,dining table,165
+31,umbrella,607
+32,boat,58
+33,flag,212
+34,speaker,324
+35,trash bin/can,619
+36,stool,530
+37,backpack,15
+38,couch,138
+39,belt,42
+40,carpet,458
+41,basket,29
+42,towel/napkin,357
+43,slippers,503
+44,barrel/bucket,25
+45,coffee table,123
+46,suv,547
+47,toy,588
+48,tie,573
+49,bed,37
+50,traffic light,590
+51,pen/pencil,388
+52,microphone,338
+53,sandals,464
+54,canned,575
+55,necklace,358
+56,mirror,341
+57,faucet,559
+58,bicycle,44
+59,bread,70
+60,high heels,271
+61,ring,451
+62,van,610
+63,watch,620
+64,sink,496
+65,horse,274
+66,fish,210
+67,apple,10
+68,camera,88
+69,candle,90
+70,teddy bear,565
+71,cake,84
+72,motorcycle,347
+73,wild bird,54
+74,laptop,305
+75,knife,299
+76,traffic sign,593
+77,cell phone,344
+78,paddle,374
+79,truck,602
+80,cow,140
+81,power outlet,426
+82,clock,117
+83,drum,180
+84,fork,222
+85,bus,79
+86,hanger,262
+87,nightstand,359
+88,pot/pan,421
+89,sheep,485
+90,guitar,252
+91,traffic cone,589
+92,tea pot,564
+93,keyboard,128
+94,tripod,599
+95,hockey,695
+96,fan,192
+97,dog,168
+98,spoon,520
+99,blackboard/whiteboard,625
+100,balloon,18
+101,air conditioner,2
+102,cymbal,157
+103,mouse,349
+104,telephone,566
+105,pickup truck,397
+106,orange,367
+107,banana,19
+108,airplane,3
+109,luggage,325
+110,skis,498
+111,soccer,512
+112,trolley,260
+113,oven,371
+114,remote,444
+115,baseball glove,28
+116,paper towel,380
+117,refrigerator,443
+118,train,595
+119,tomato,581
+120,machinery vehicle,131
+121,tent,570
+122,shampoo/shower gel,682
+123,head phone,268
+124,lantern,304
+125,donut,173
+126,cleaning products,116
+127,sailboat,461
+128,tangerine,694
+129,pizza,406
+130,kite,297
+131,computer box,161
+132,elephant,193
+133,toiletries,693
+134,gas stove,233
+135,broccoli,72
+136,toilet,579
+137,stroller,536
+138,shovel,492
+139,baseball bat,27
+140,microwave,339
+141,skateboard,497
+142,surfboard,544
+143,surveillance camera,545
+144,gun,261
+145,life saver,313
+146,cat,100
+147,lemon,309
+148,liquid soap,679
+149,zebra,638
+150,duck,181
+151,sports car,521
+152,giraffe,234
+153,pumpkin,432
+154,piano,396
+155,stop sign,531
+156,radiator,438
+157,converter,425
+158,tissue ,577
+159,carrot,97
+160,washing machine,618
+161,vent,684
+162,cookies,133
+163,cutting/chopping board,156
+164,tennis racket,569
+165,candy,91
+166,skating and skiing shoes,499
+167,scissors,472
+168,folder,218
+169,baseball,26
+170,strawberry,532
+171,bow tie,64
+172,pigeon,402
+173,pepper,391
+174,coffee machine,124
+175,bathtub,33
+176,snowboard,508
+177,suitcase,540
+178,grapes,246
+179,ladder,300
+180,pear,387
+181,american football,7
+182,basketball,30
+183,potato,422
+184,paint brush,375
+185,printer,430
+186,billiards,51
+187,fire hydrant,207
+188,goose,245
+189,projector,431
+190,sausage,467
+191,fire extinguisher,206
+192,extension cord,197
+193,facial mask,333
+194,tennis ball,568
+195,chopsticks,114
+196,electronic stove and gas stove,675
+197,pie,400
+198,frisbee,227
+199,kettle,293
+200,hamburger,255
+201,golf club,243
+202,cucumber,150
+203,clutch,687
+204,blender,55
+205,tong,582
+206,slide,502
+207,hot dog,277
+208,toothbrush,583
+209,facial cleanser,680
+210,mango,329
+211,deer,159
+212,egg,189
+213,violin,614
+214,marker,332
+215,ship,487
+216,chicken,113
+217,onion,366
+218,ice cream,281
+219,tape,1
+220,wheelchair,624
+221,plum,413
+222,bar soap,22
+223,scale,469
+224,watermelon,621
+225,cabbage,82
+226,router/modem,457
+227,golf ball,241
+228,pine apple,404
+229,crane,143
+230,fire truck,208
+231,peach,386
+232,cello,105
+233,notepaper,379
+234,tricycle,598
+235,toaster,578
+236,helicopter,269
+237,green beans,248
+238,brush,76
+239,carriage,275
+240,cigar,677
+241,earphone,187
+242,penguin,390
+243,hurdle,280
+244,swing,552
+245,radio,681
+246,CD,127
+247,parking meter,382
+248,swan,548
+249,garlic,232
+250,french fries,225
+251,horn,691
+252,avocado,13
+253,saxophone,468
+254,trumpet,604
+255,sandwich,465
+256,cue,151
+257,kiwi fruit,298
+258,bear,35
+259,fishing rod,211
+260,cherry,111
+261,tablet,556
+262,green vegetables,612
+263,nuts,362
+264,corn,135
+265,key,294
+266,screwdriver,475
+267,globe,236
+268,broom,74
+269,pliers,412
+270,volleyball,615
+271,hammer,256
+272,eggplant,190
+273,trophy,601
+274,dates,690
+275,board eraser,57
+276,rice,446
+277,tape measure/ruler,460
+278,dumbbell,182
+279,hamimelon,94
+280,stapler,526
+281,camel,87
+282,lettuce,311
+283,goldfish,240
+284,meat balls,335
+285,medal,336
+286,toothpaste,689
+287,antelope,9
+288,shrimp,494
+289,rickshaw,448
+290,trombone,600
+291,pomegranate,416
+292,coconut,120
+293,jellyfish,287
+294,mushroom,354
+295,calculator,86
+296,treadmill,597
+297,butterfly,81
+298,egg tart,561
+299,cheese,109
+300,pig,401
+301,pomelo,692
+302,race car,437
+303,rice cooker,447
+304,tuba,605
+305,crosswalk sign,147
+306,papaya,378
+307,hair drier,254
+308,green onion,249
+309,chips,423
+310,dolphin,171
+311,sushi,546
+312,urinal,608
+313,donkey,172
+314,electric drill,191
+315,spring rolls,523
+316,tortoise/turtle,585
+317,parrot,383
+318,flute,217
+319,measuring cup,334
+320,shark,484
+321,steak,529
+322,poker card,411
+323,binoculars,53
+324,llama,688
+325,radish,439
+326,noodles,360
+327,yak,637
+328,mop,346
+329,crab,142
+330,microscope,683
+331,barbell,23
+332,bread/bun,70
+333,baozi,21
+334,lion,320
+335,red cabbage,442
+336,polar bear,414
+337,lighter,316
+338,seal,479
+339,mangosteen,678
+340,comb,126
+341,eraser,195
+342,pitaya,686
+343,scallop,470
+344,pencil case,389
+345,saw,685
+346,table tennis paddle,555
+347,okra,365
+348,starfish,527
+349,eagle,185
+350,monkey,345
+351,durian,184
+352,game board,230
+353,rabbit,435
+354,french horn,226
+355,ambulance,6
+356,asparagus,231
+357,hoverboard,279
+358,pasta,385
+359,target,560
+360,hotair balloon,276
+361,chainsaw,107
+362,lobster,323
+363,iron,676
+364,flashlight,213

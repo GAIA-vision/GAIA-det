@@ -1,0 +1,81 @@
+label,name,uni
+0,person,392
+1,bicycle,44
+2,car,95
+3,motorcycle,347
+4,airplane,3
+5,bus,79
+6,train,595
+7,truck,602
+8,boat,58
+9,traffic light,590
+10,fire hydrant,207
+11,stop sign,531
+12,parking meter,382
+13,bench,43
+14,bird,54
+15,cat,100
+16,dog,168
+17,horse,274
+18,sheep,485
+19,cow,140
+20,elephant,193
+21,bear,35
+22,zebra,638
+23,giraffe,234
+24,backpack,15
+25,umbrella,607
+26,handbag,259
+27,tie,573
+28,suitcase,540
+29,frisbee,227
+30,skis,498
+31,snowboard,508
+32,sports ball,17
+33,kite,297
+34,baseball bat,27
+35,baseball glove,28
+36,skateboard,497
+37,surfboard,544
+38,tennis racket,569
+39,bottle,62
+40,wine glass,630
+41,cup,152
+42,fork,222
+43,knife,299
+44,spoon,520
+45,bowl,65
+46,banana,19
+47,apple,10
+48,sandwich,465
+49,orange,367
+50,broccoli,72
+51,carrot,97
+52,hot dog,277
+53,pizza,406
+54,donut,173
+55,cake,84
+56,chair,108
+57,couch,138
+58,potted plant,424
+59,bed,37
+60,dining table,165
+61,toilet,579
+62,tv,567
+63,laptop,305
+64,mouse,349
+65,remote,444
+66,keyboard,128
+67,cell phone,344
+68,microwave,339
+69,oven,371
+70,toaster,578
+71,sink,496
+72,refrigerator,443
+73,book,59
+74,clock,117
+75,vase,611
+76,scissors,472
+77,teddy bear,565
+78,hair drier,254
+79,toothbrush,583
