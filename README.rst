@@ -1,6 +1,6 @@
 GAIA-det
 ^^^^^^
-**The code is almost complete, but the documentation haven't been completed yet. Please stay tuned.**
+**The codes in this repo are almost complete, but the documentations haven't been completed yet. Please stay tuned.**
 
 Introduction 
 ------------
