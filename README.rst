@@ -1,6 +1,7 @@
 GAIA-det
 ^^^^^^
-**The codes in this repo are almost complete, but the documentations haven't been completed yet. Please stay tuned.**
+**The documentations haven't been completed yet. Please stay tuned.**
+**Model and demo coming soon!**
 
 Introduction 
 ------------
