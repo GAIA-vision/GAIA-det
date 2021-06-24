@@ -4,7 +4,9 @@ GAIA-det
 
 Introduction 
 ------------
-GAIA-det is a open source object detection toolbox that helps you with your customized AI solutions. It is built on top of gaiavision_ and mmdet_. This repo includes reimplementation of our CVPR2021 paper: `GAIA: A Transfer Learning System of Object Detection that Fits Your Needs <https://arxiv.org/abs/2106.11346>`__.
+
+- GAIA-det is a open source object detection toolbox that helps you with your customized AI solutions. It is built on top of gaiavision_ and mmdet_. 
+- This repo includes a re-implementation of our CVPR2021 paper: `GAIA: A Transfer Learning System of Object Detection that Fits Your Needs <https://arxiv.org/abs/2106.11346>`__.
 
 
 .. _gaiavision: https://github.com/GAIA-vision/GAIA-cv
