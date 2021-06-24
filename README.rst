@@ -39,13 +39,13 @@ Data Preparation
 
 Please refer to DATA_PREPARATION_.
 
-.. _DATA_PREPARATION: https://github.com/GAIA-vision/GAIA-det/blob/dev/docs/DATA_PREPARATION.rst
+.. _DATA_PREPARATION: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/DATA_PREPARATION.rst
 
 Usage
 -----
 Please refer to USAGE_.
 
-.. _USAGE: https://github.com/GAIA-vision/GAIA-det/blob/dev/docs/USAGE.rst
+.. _USAGE: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst
 
 Acknowledgements
 ---------------
