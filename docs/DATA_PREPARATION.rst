@@ -32,7 +32,7 @@ Prepare COCO dataset
         └─...
 
 
-Prepare Objects365 datset
+Prepare Objects365 dataset
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 - Download the whole dataset from `link <https://www.objects365.org/download.html>`__.
@@ -66,7 +66,7 @@ Prepare Objects365 datset
     cd /path/to/GAIA-det
     python tools/convert_datasets/coco2custom.py --data_dir /path/to/Objects365 --src_name objects365_train.json --dst_name objects365_generic_train.json
   
-Prepare OpenImages datset
+Prepare OpenImages dataset
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 - Download the whole dataset from `link <https://storage.googleapis.com/openimages/web/download.html>`__.
