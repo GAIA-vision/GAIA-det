@@ -1,6 +1,5 @@
 GAIA-det
 ^^^^^^
-**The documentations haven't been completed yet. Please stay tuned.**
 **Model and demo coming soon!**
 
 Introduction 
