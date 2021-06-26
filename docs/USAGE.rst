@@ -40,6 +40,7 @@ Then you need to maintain overhead of subnets:
 .. _`count flops`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#count-flops
 
 During downstream customization:
+
 - You could design `rules`_ and directly sample subnets for fast-finetuning. This would generate a file that records performance of subnets. Direct finetuning is usually applied when downstream label space is a subset of upstream label space.
 - You could also design `rules`_ and directly sample subnets for testing. This could shrink the search space and you could apply fast-finetuning based on rules like this_. 
 
