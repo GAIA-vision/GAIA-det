@@ -70,7 +70,7 @@ Prepare OpenImages dataset
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 - Download the whole dataset from `link <https://storage.googleapis.com/openimages/web/download.html>`__.
-- Note that the version we use in paper_ is OpenImages2019 Challenge, annotations could from `link <https://storage.googleapis.com/openimages/web/challenge2019_downloads.html>`__.
+- Note that the version we use in paper_ is OpenImages2019 Challenge, annotations could be found from `link <https://storage.googleapis.com/openimages/web/challenge2019_downloads.html>`__.
 - Formulate the data directory as follows:
 
 .. code-block:: text
