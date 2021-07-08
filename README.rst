@@ -1,6 +1,6 @@
 GAIA-det
 ^^^^^^
-**Model and demo coming soon!**
+**Model and demo coming soon! All things would be ready on July 20th. Stay tuned.**
 
 Introduction 
 ------------
