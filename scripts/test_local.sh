@@ -7,7 +7,7 @@ CKPT_PATH=$4
 MODEL_SPACE_PATH=$5
 PORT=${PORT:-29500}
 
-# CONFIG=configs/local_examples/test_supernet/faster_rcnn_ar50to101v2_gsync_dist_eval.py
+# CONFIG=configs/local_examples/test_supernet/faster_rcnn_ar50to101_gsync_dist_eval.py
 
 python -m torch.distributed.launch \
     --nproc_per_node=$GPUS \

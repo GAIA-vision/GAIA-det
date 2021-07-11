@@ -359,12 +359,12 @@ def main():
                 for name, val in eval_res.items():
                     metrics[name] = val
 
-                logger.info('-- model meta:')
-                logger.info(json.dumps(model_meta, indent=4))
                 metric_meta = result_model_meta.setdefault('metric', {})
                 metric_meta[args.metric_tag] = metrics
                 result_model_meta['metric'] = metric_meta
                 sampled_model_metas.append(result_model_meta)
+                logger.info('-- model meta:')
+                logger.info(json.dumps(result_model_meta, indent=4))
         dist.barrier()
 
     if rank == 0:

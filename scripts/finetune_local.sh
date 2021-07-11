@@ -9,7 +9,7 @@ MODEL_SPACE_PATH=$5
 
 PORT=${PORT:-29500}
 
-# CONFIG=configs/local_examples/fast_finetune/faster_rcnn_ar50to101v2_ft2e.py
+# CONFIG=configs/local_examples/fast_finetune/faster_rcnn_ar50to101_ft2e.py
 
 
 python -m torch.distributed.launch \

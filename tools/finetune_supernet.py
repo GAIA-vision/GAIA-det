@@ -359,12 +359,12 @@ def main():
             for name, val in eval_res.items():
                 metrics[name] = val
 
-            logger.info('-- model meta:')
-            logger.info(json.dumps(model_meta, indent=4))
             metric_meta = res_model_meta.setdefault('metric', {})
             metric_meta[args.metric_tag] = metrics
             res_model_meta['metric'] = metric_meta
             fastft_model_metas.append(res_model_meta)
+            logger.info('-- model meta:')
+            logger.info(json.dumps(res_model_meta, indent=4))
 
         # 7. synchronize all procs
         dist.barrier()

@@ -54,10 +54,8 @@ model = dict(
                 target_means=[0., 0., 0., 0.],
                 target_stds=[0.1, 0.1, 0.2, 0.2]),
             reg_class_agnostic=True,
-            # NOTE: special setting
             loss_cls=dict(
                 type='CrossEntropyLoss', use_sigmoid=False, loss_weight=4.0),
-            # NOTE: special setting
             loss_bbox=dict(type='SmoothL1Loss', loss_weight=4.5))))
 # model training and testing settings
 train_cfg = dict(

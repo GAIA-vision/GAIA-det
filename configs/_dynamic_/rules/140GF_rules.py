@@ -1,8 +1,8 @@
-model_space_path = 'hubs/flops/ar50to101v2_flops.json'
+model_space_path = 'path/to/ar50to101_flops.json'
 model_sampling_rules = dict(
     type='sequential',
     rules=[
-        # 1. latency constraint, e.g. close to R50(138*1e9)
+        # 1. overhead constraints, e.g. close to R50(138*1e9), replace it basing on your needs.
         dict(
             func_str=
             'lambda x: x[\'overhead.flops\'] <=140*1e9 and x[\'overhead.flops\'] >=135*1e9'
