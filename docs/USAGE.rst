@@ -29,7 +29,7 @@ To begin with, you need to get a powerful supernet to do all things:
 - Or, you can use arch_ and ckpt(coming soon) of supernet in this repo.
 
 .. _`train supernet`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#training-supernet
-.. _arch: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/models/faster_rcnn_fpn_ar50to101v2_gsync.py
+.. _arch: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/models/faster_rcnn_fpn_ar50to101_gsync.py
 
 Then you need to maintain overhead of subnets:
 
@@ -44,8 +44,8 @@ During downstream customization:
 - You could design `rules`_ and directly sample subnets for fast-finetuning. This would generate a file that records performance of subnets. Direct finetuning is usually applied when downstream label space is a subset of upstream label space.
 - You could also design `rules`_ and directly sample subnets for testing. This could shrink the search space and you could apply fast-finetuning based on rules like this_. 
 
-.. _`this`: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/rules/ar50to101v2_ft2e_rules.py
-.. _`rules`: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/rules/close_to_r50_flops_rules.py
+.. _`this`: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/rules/ar50to101_ft2e_rules.py
+.. _`rules`: https://github.com/GAIA-vision/GAIA-det/blob/master/configs/_dynamic_/rules/140GF_rules.py
 
 Final model training and extraction:
 
@@ -62,7 +62,7 @@ Train supernet
 .. code-block:: bash
 
   cd /path/to/GAIA-det
-  sh scripts/train_local.sh 8 configs/local_examples/train_supernet/faster_rcnn_ar50to101v2_gsync.py /path/to/work_dir
+  sh scripts/train_local.sh 8 configs/local_examples/train_supernet/faster_rcnn_ar50to101_gsync.py /path/to/work_dir
 
 Count flops
 >>>>>>>>>>>>>
@@ -70,7 +70,7 @@ Count flops
 .. code-block:: bash
 
   cd /path/to/GAIA-det
-  sh scripts/count_flops_local.sh 8 configs/local_examples/train_supernet/faster_rcnn_ar50to101v2_flops.py /path/to/work_dir
+  sh scripts/count_flops_local.sh 8 configs/local_examples/train_supernet/faster_rcnn_ar50to101_flops.py /path/to/work_dir
 
 After this, you may have a ``/path/to/work_dir/flops.json`` which records flops of each model. It looks like this:
 
