@@ -8,8 +8,6 @@ dataset_types = {
 # data root
 data_roots = {
     'coco': '/path/to/coco',
-    'cocotrain': '/path/to/coco/images/train2017',
-    'cocoval': '/path/to/coco/images/val2017',
     'openimages': '/path/to/openimages',
     'object365': '/path/to/object365',
 }
@@ -64,7 +62,11 @@ data = dict(
                 type=dataset_types['object365'],
                 name='object365',
                 ann_file=data_roots['object365'] + '/annotations/objects365_generic_train.json',
+<<<<<<< HEAD
                 img_prefix=data_roots['object365'] + '/train',
+=======
+                img_prefix=data_roots['object365'] + '/images/train',
+>>>>>>> 33fda2682f3002b5aa43a7a329becc9449cf87aa
                 pipeline=train_pipeline,
             ),
             dict(

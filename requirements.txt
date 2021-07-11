@@ -4,6 +4,6 @@ terminaltables
 mmpycocotools
 
 mmcv==1.2.7
-mmdetection==2.8.0
+mmdet==2.8.0
 spacy
 

@@ -1,10 +1,12 @@
 GAIA-det
 ^^^^^^
-**The code is almost complete, but the documentation haven't been completed yet. Please stay tuned.**
+**Model and demo coming soon! All things would be ready on July 20th. Stay tuned.**
 
 Introduction 
 ------------
-GAIA-det is a open source object detection that helps you with your customized AI solutions. It is built on top of gaiavision_ and mmdet_.
+
+GAIA-det is a open source object detection toolbox that helps you with your customized AI solutions. It is built on top of gaiavision_ and mmdet_. 
+This repo includes a re-implementation of our CVPR2021 paper: `GAIA: A Transfer Learning System of Object Detection that Fits Your Needs <https://arxiv.org/abs/2106.11346>`__.
 
 
 .. _gaiavision: https://github.com/GAIA-vision/GAIA-cv
@@ -35,27 +37,16 @@ Installation
 Data Preparation
 ----------------
 
-- Prepare data for training supernets.
+Please refer to DATA_PREPARATION_.
 
-  - COCO datasets: Coming soon.
-  - Objects365: Coming soon.
-  - OpenImages: Coming soon.
-
-- Prepare data for downstream tasks.
-
-  - Prepare label mapping: Coming soon.
-  - Prepare annotations: Coming soon.
+.. _DATA_PREPARATION: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/DATA_PREPARATION.rst
 
 Usage
 -----
 Please refer to USAGE_.
 
-.. _USAGE: https://github.com/GAIA-vision/GAIA-det/blob/dev/docs/USAGE.rst
+.. _USAGE: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst
 
-Acknowledgements
----------------
-
-- This repo is constructed on top of mmdet_.
 
 
 

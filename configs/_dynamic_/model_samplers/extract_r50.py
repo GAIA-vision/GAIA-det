@@ -60,5 +60,4 @@ R101 = {
 train_sampler = dict(
     type='anchor', anchors=[
         dict(**R50, ),
-        dict(**R101, ),
     ])

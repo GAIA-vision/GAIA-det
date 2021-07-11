@@ -8,8 +8,6 @@ dataset_types = {
 # data root
 data_roots = {
     'coco': '/path/to/coco',
-    'cocotrain': '/path/to/coco/images/train2017',
-    'cocoval': '/path/to/coco/images/val2017',
     'openimages': '/path/to/openimages',
     'object365': '/path/to/object365',
 }

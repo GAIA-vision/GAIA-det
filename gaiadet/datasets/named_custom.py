@@ -19,7 +19,7 @@ class NamedCustomDataset(CustomDataset):
     1) It owns a name;
     2) It supports filter_empty_gt.
     3) It filters all invalid gt-boxes, e.g. area < 1.
-    4) It supports indexing only a protion of samples
+    4) It supports indexing only a portion of samples
 
     Args:
         name (str): Dataset name.
