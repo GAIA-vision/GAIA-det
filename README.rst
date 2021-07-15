@@ -143,7 +143,7 @@ If you like our work and use the code or models for your research or project, pl
 ::
 
     @InProceedings{Bu_2021_CVPR,
-        author    = {Bu, Xingyuan and Peng, Junran and Yan, Junjie and Tan, Tieniu and Zhang, Zhaoxiang},
+        author    = {Bu, Xingyuan* and Peng, Junran* and Yan, Junjie and Tan, Tieniu and Zhang, Zhaoxiang},
         title     = {GAIA: A Transfer Learning System of Object Detection That Fits Your Needs},
         booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
         month     = {June},
