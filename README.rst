@@ -40,9 +40,9 @@ Prepare Supernet
 +-------------+------------+------------+------------------------+--------------------------------------------------------------------+-------------+
 | Type        | Backbone   | Model      |  Data                  | Baidu Cloud/Password                                                      | GitHub    | 
 +=============+============+============+========================+====================================================================+=============+
-| WEIGHTS     | AR50to101  | Faster     | COCO+Obj365            |  `BaiduCloud <https://pan.baidu.com/s/1V0H02yjssQKYBYF5lu_6Gw>`__ / ``tm5n`` | https://github.com/GAIA-vision/GAIA-det/releases/download/v0.1/ar50to101_supernet.pth    | 
+| WEIGHTS     | AR50to101  | Faster     | COCO+Obj365            |  [Baidu](https://pan.baidu.com/s/1V0H02yjssQKYBYF5lu_6Gw) / ``tm5n`` | [Github](https://github.com/GAIA-vision/GAIA-det/releases/download/v0.1/ar50to101_supernet.pth)    | 
 +-------------+------------+------------+------------------------+--------------------------------------------------------------------+-------------+
-| FLOPS_LUT   | AR50to101  | Faster     | COCO+Obj365            |  `BaiduCloud <https://pan.baidu.com/s/18kYu6pC0JdGyGYdK9HkC8A>`__ /``ttwq``  | https://github.com/GAIA-vision/GAIA-det/releases/download/v0.1/ar50to101_flops.json   | 
+| FLOPS_LUT   | AR50to101  | Faster     | COCO+Obj365            |  [Baidu](https://pan.baidu.com/s/18kYu6pC0JdGyGYdK9HkC8A) /``ttwq``  | [Github](https://github.com/GAIA-vision/GAIA-det/releases/download/v0.1/ar50to101_flops.json)   | 
 +-------------+------------+------------+------------------------+--------------------------------------------------------------------+-------------+
 | WEIGHTS     | AR50to101  | Faster     | COCO+Obj365+OID500     |  Coming soon                                                       |             | 
 +-------------+------------+------------+------------------------+--------------------------------------------------------------------+-------------+
