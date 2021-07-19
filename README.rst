@@ -38,7 +38,7 @@ Installation
 
 .. code-block:: bash
   
-  git clone https://github.com/GAIA-vision/GAIA-det . && cd GAIA-det
+  git clone https://github.com/GAIA-vision/GAIA-det.git && cd GAIA-det
   pip install -r requirements.txt
   pip install -e .
 
