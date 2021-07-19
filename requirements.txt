@@ -3,6 +3,5 @@ torchvision==0.9.0
 terminaltables
 mmpycocotools
 
-mmdet==2.8.0
 spacy
 
