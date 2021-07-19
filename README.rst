@@ -21,6 +21,14 @@ It provides functionalities that help the customization of AI solutions.
 - Integrate datasets of various sources.
 
 
+Requirements
+------------
+- Python 3.6+
+- CUDA 10.0+
+- mmcv < 1.3.0 and mmcv >= 1.2.7 
+- mmdet < 2.9.0 and mmdet >= 2.8.0
+- Others (See requirements.txt)
+
 Installation
 ------------
 
