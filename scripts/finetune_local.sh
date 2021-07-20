@@ -18,6 +18,6 @@ python -m torch.distributed.launch \
     --launcher pytorch \
     --work-dir ${WORK_DIR} \
     --eval bbox \
-    --load-from ${CKPT_PATH} \
+    --load-from ${LOAD_FROM} \
     --model-space-path ${MODEL_SPACE_PATH}
 
