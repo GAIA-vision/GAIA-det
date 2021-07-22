@@ -18,5 +18,6 @@ python -m torch.distributed.launch \
     --work-dir ${WORK_DIR} \
     --launcher pytorch \
     --eval bbox
+    --model-space-path ${MODEL_SPACE_PATH}
 #     ${@:5}
 
