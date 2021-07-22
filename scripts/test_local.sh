@@ -17,7 +17,7 @@ python -m torch.distributed.launch \
     ${CKPT_PATH} \
     --work-dir ${WORK_DIR} \
     --launcher pytorch \
-    --eval bbox
+    --eval bbox \
     --model-space-path ${MODEL_SPACE_PATH}
 #     ${@:5}
 
