@@ -4,17 +4,17 @@ GAIA-dets provides the following tools:
 
 - `Train supernet`_: Build up a search space and train a supernet on large amount of data.
 
-- `Test subnets`_: Define sampling rules and test subnets sampled from supernet based on rules.
+- `Test supernet`_: Define sampling rules and test subnets sampled from supernet based on rules.
 
-- `Finetune subnets`_: Define sampling rules and finetune subnets sampled from supernet based on rules.
+- `Finetune supernet`_: Define sampling rules and finetune subnets sampled from supernet based on rules.
 
 - `Count flops`_: Count flops of subnets in search space.
 
 - `Extract subnets`_: Extract weights of subnets from supernets.
 
 .. _`Train supernet`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#training-supernet
-.. _`Test subnets`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#tsastask-specific-architecture-selection
-.. _`Finetune subnets`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#tsastask-specific-architecture-selection
+.. _`Test supernet`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#tsastask-specific-architecture-selection
+.. _`Finetune supernet`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#tsastask-specific-architecture-selection
 .. _`Count flops`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#count-flops
 .. _`Extract subnets`: https://github.com/GAIA-vision/GAIA-det/blob/master/docs/USAGE.rst#extract-weights-and-finetune-with-your-own-tricks
 
