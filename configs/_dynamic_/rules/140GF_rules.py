@@ -11,11 +11,11 @@ model_sampling_rules = dict(
         dict(
             type='parallel',
             rules=[
-                dict(func_str='lambda x: x[\'data.input_shape\'][-1] == 480'),
-                dict(func_str='lambda x: x[\'data.input_shape\'][-1] == 560'),
-                dict(func_str='lambda x: x[\'data.input_shape\'][-1] == 640'),
-                dict(func_str='lambda x: x[\'data.input_shape\'][-1] == 720'),
-                dict(func_str='lambda x: x[\'data.input_shape\'][-1] == 800'),
+                dict(func_str='lambda x: x[\'data.input_shape\'] == 480'),
+                dict(func_str='lambda x: x[\'data.input_shape\'] == 560'),
+                dict(func_str='lambda x: x[\'data.input_shape\'] == 640'),
+                dict(func_str='lambda x: x[\'data.input_shape\'] == 720'),
+                dict(func_str='lambda x: x[\'data.input_shape\'] == 800'),
             ]),
         # 3. various depth constraints
         dict(
