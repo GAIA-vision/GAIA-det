@@ -62,9 +62,6 @@ data = dict(
                 type=dataset_types['object365'],
                 name='object365',
                 ann_file=data_roots['object365'] + '/annotations/objects365_generic_train.json',
-<<<<<<< HEAD
-                img_prefix=data_roots['object365'] + '/train',
-=======
                 img_prefix=data_roots['object365'] + '/images/train',
 >>>>>>> 33fda2682f3002b5aa43a7a329becc9449cf87aa
                 pipeline=train_pipeline,
