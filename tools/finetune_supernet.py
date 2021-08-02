@@ -275,7 +275,7 @@ def main():
 
         # 1. prepare dataset according to model_meta
         unfolded_model_meta = unfold_dict(model_meta)
-        new_scale = unfolded_model_meta['data.input_shape'][-1]
+        new_scale = unfolded_model_meta['data.input_shape']
         scale_manipulator = ScaleManipulator(new_scale)
         manipulate_dataset(cfg.data.train, scale_manipulator)
         manipulate_dataset(cfg.data.test, scale_manipulator)
