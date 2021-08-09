@@ -43,7 +43,7 @@ Prepare Objects365 dataset
 
 .. code-block:: text
 
-    /path/to/objects365/
+    /path/to/object365/
     ├─annotations/
     │ ├─objects365_train.json
     │ ├─objects365_val.json
