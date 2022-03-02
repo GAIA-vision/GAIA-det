@@ -16,7 +16,7 @@ model = dict(
     neck=dict(
         type='DynamicFPN',
         # in_channels should be 4 times the stage_channels
-        in_channels=[320, 640, 1440, 2560],
+        in_channels=[320, 640, 1280, 2560],
         out_channels=256,
         conv_cfg=dict(type='DynConv2d'),
         num_outs=5),
