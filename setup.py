@@ -41,7 +41,7 @@ if __name__ == '__main__':
         install_requires=[
             'torch >= 1.5.1',
             'torchvision',
-            'mmcv==1.2.7',  # check mmcv >= 1.2.7 & mmcv <= 1.2.7
+            'mmcv-full==1.2.7',  # check mmcv >= 1.2.7 & mmcv <= 1.2.7
             'mmdet>=2.7.0',
             'gaiavision',
         ],
