@@ -1,2 +1,4 @@
 from .dynamic_two_stage import DynamicTwoStageDetector
 from .dynamic_faster_rcnn import DynamicFasterRCNN
+from .dynamic_single_stage import DynamicSingleStageDetector
+from .dynamic_yolox import DynamicYOLOX
